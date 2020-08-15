@@ -1,0 +1,19 @@
+{
+  "name": "botox-ui",
+  "version": "1.0.0",
+  "description": "A react component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraigDeverall/botox-ui.git"
+  },
+  "author": "Craig Deverall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CraigDeverall/botox-ui/issues"
+  },
+  "homepage": "https://github.com/CraigDeverall/botox-ui#readme"
+}
