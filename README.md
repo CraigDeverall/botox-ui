@@ -1,2 +1,2 @@
-# deverall-ui
+# botox-ui
 a react component library.
